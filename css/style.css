@@ -1,0 +1,17 @@
+.hidden {
+  display: none;
+}
+
+#login-form,
+#greeting {
+}
+
+#backgroundImg {
+  position: fixed;
+  top: 0;
+  z-index: -1;
+}
+
+* {
+  color: white;
+}
